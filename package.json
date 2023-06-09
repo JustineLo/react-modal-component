@@ -1,6 +1,6 @@
 {
   "name": "@justinelo/react-simple-modal-component",
-  "version": "0.1.2", 
+  "version": "0.1.3", 
   "module": "module",  
   "files": [ "dist", "README.md" ],  
   "dependencies": {
